@@ -11,7 +11,7 @@ import pendulum
 
 
 """
-This pipeline demonstrates how to use the Astro Cloud IDE. It loads the Titanic dataset, filters out passengers under 18, and aggregates the data by survival and class.
+Test : This pipeline demonstrates how to use the Astro Cloud IDE. It loads the Titanic dataset, filters out passengers under 18, and aggregates the data by survival and class.
 
 The pipeline is composed of four cells:
 
